@@ -1,1 +1,1 @@
-const log = console.log.bind(console)
+const log3 = console.log.bind(console)
