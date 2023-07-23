@@ -1,3 +1,3 @@
-// rebase
-const log3 = console.log.bind(console)
+const log4 = console.log.bind(console)
 
+const add = (a,b) => a + b
