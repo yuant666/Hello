@@ -1,2 +1,3 @@
-const log3 = console.log.bind(console)
-const a = 1
+const log4 = console.log.bind(console)
+
+const add = (a,b) => a + b
